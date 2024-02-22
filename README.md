@@ -1,2 +1,1 @@
-# ds6390
-DS-6390 Visualization of Information - 401
+# DS-6390 Visualization of Information - 401
