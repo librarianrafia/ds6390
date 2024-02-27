@@ -18,3 +18,17 @@ p {
 body {
   background-color: pink;
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: center;
+}
+img {
+    width: 100px; /* Adjust based on your needs */
+    height: auto;
+}
