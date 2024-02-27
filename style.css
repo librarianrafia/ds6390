@@ -14,11 +14,6 @@ p {
     color: #666;
 }
 
-
-body {
-  background-color: pink;
-}
-
 table {
     width: 100%;
     border-collapse: collapse;
@@ -29,6 +24,6 @@ td {
     text-align: center;
 }
 img {
-    width: 100px; /* Adjust based on your needs */
+    width: 100px; 
     height: auto;
 }
